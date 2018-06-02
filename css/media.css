@@ -97,9 +97,14 @@
   padding-left: 225px;
 }
 .goods {
-	background-image: url(../img/goods.png)
+	background-image: url(../img/goods.png);
 	background-size: cover;
 	height: 800px;
+}
+#my-menu {
+    margin-top: 220px;
+    padding-right: 20px;
+    display: block;
 }
 }
 
